@@ -2,4 +2,12 @@ This is first file by arjunbedihbc
 This is first file by arjunbedihbc
 Thi is a new update here.
 
+<<<<<<< HEAD
 My Name is arjunbedihbc
+=======
+This id user arjun-gndu-2003
+>>>>>>> 6e197ea3afe4490c57ec4da82c035928356aa176
+
+oranges
+cherry
+strawberry
