@@ -8,3 +8,4 @@ oranges
 cherry
 strawberry
 avacado
+banana
